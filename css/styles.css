@@ -4,8 +4,14 @@
     vertical-align: sub;
 }
 
+
 main {
     margin-top: 15px;
+}
+
+q{
+    color: blue;
+    font-family: Niconne
 }
 
 main>.container-fluid {
@@ -39,11 +45,8 @@ legend {
     margin-bottom: 0;
 }
 
-#sachin {
+#healthcare {
     border-radius: 50%;
-    transition: all .5s;
 }
 
-#sachin:hover {
-    transform: scale(1.2) rotate(360deg);
-}
+
