@@ -4,17 +4,17 @@
     vertical-align: sub;
 }
 
-
 main {
-    margin-top: 15px;
+    padding-top:  5px;
+background-color: black;
 }
 
 q{
     color: green;
-    font-family: Niconne
+    font-family: 'Sofia';
 }
 
-main>.container-fluid {
+.container-fluid {
     padding-right: 20px;
 }
 
@@ -47,6 +47,7 @@ legend {
 
 #healthcare {
     border-radius: 50%;
+    transform: scale(1.2);
 }
 
 

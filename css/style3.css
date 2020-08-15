@@ -1,0 +1,26 @@
+ 
+.img1{float: right;} 
+#table .cth { background-color: #eb99ff; }
+#table tr:hover {background-color:#b3d9ff;}
+
+q{
+    color: green;
+    font-family: 'Sofia';
+}
+#table th, td {
+  text-align: left;
+  border: 2px solid #ddd;
+  padding: 8px;
+  
+  
+}
+#table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+ background-color: #c68c53
+
+}
+#table{ border-collapse: collapse;
+  width: 100%; }
+#paragraph{ font-weight: bold;} 

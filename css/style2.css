@@ -1,1 +1,27 @@
-p{font-style: italic; } 
+.highlight{
+font-weight: bold;
+	font-family: 'Sofia';font-size: 18px;}
+header{ 
+	background: #D8BFD8;
+	border: 2px #D8BFD8;
+  padding: 10px;
+  border-radius: 25px;
+  animation: mymove 5s infinite; 
+}
+@keyframes mymove {
+  50% {
+  	background-color: #AFEEEE;
+  }
+}
+main{
+  background: #FAF0E6; 
+  border: 2px #FAF0E6;
+  padding: 10px;
+  border-radius: 25px;
+  margin-top: 3px;
+}
+
+p{
+	font-style: italic; 
+} 
+
