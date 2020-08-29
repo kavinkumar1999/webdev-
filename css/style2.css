@@ -1,6 +1,7 @@
 .highlight{
-font-weight: bold;
-	font-family: 'Sofia';font-size: 18px;}
+  font-weight: bold;
+	font-family: 'Sofia';font-size: 18px;
+}
 header{ 
 	background: #D8BFD8;
 	border: 2px #D8BFD8;
@@ -25,6 +26,9 @@ p{
 	
 	font-style: italic; 
 } 
-main{float: right;  }
-.kavin{ list-style-type: square !important;  }
+main{
+  float: right;  }
+.kavin{ 
+  list-style-type: square !important;  
+}
 
